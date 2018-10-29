@@ -1,0 +1,3288 @@
+{
+  "word1":[
+    {
+      "s1":[
+        {
+          "word": "热门分类",
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-1-1.jpg",
+              "cont": "进口牛奶"
+            },
+            {
+              "img": "../../../static/images/z-t-1-2.jpg",
+              "cont": "生鲜食品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-3.jpg",
+              "cont": "进口食品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-4.jpg",
+              "cont": "手机"
+            },
+            {
+              "img": "../../../static/images/z-t-1-5.jpg",
+              "cont": "婴幼奶粉"
+            },
+            {
+              "img": "../../../static/images/z-t-1-6.jpg",
+              "cont": "饮料"
+            },
+            {
+              "img": "../../../static/images/z-t-1-7.jpg",
+              "cont": "衣物清洁"
+            },
+            {
+              "img": "../../../static/images/z-t-1-8.jpg",
+              "cont": "饮用水"
+            },
+            {
+              "img": "../../../static/images/z-t-1-9.jpg",
+              "cont": "洗发水"
+            },
+            {
+              "img": "../../../static/images/z-t-1-10.jpg",
+              "cont": "尿裤湿巾"
+            },
+            {
+              "img": "../../../static/images/z-t-1-11.jpg",
+              "cont": "纸品湿巾"
+            },
+            {
+              "img": "../../../static/images/z-t-1-12.jpg",
+              "cont": "食用油"
+            },
+            {
+              "img": "../../../static/images/z-t-1-13.jpg",
+              "cont": "休闲零食"
+            },
+            {
+              "img": "../../../static/images/z-t-1-14.jpg",
+              "cont": "平板电视"
+            },
+            {
+              "img": "../../../static/images/z-t-1-15.jpg",
+              "cont": "大米"
+            },
+            {
+              "img": "../../../static/images/z-t-1-16.jpg",
+              "cont": "调味品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-17.jpg",
+              "cont": "饼干蛋糕"
+            },
+            {
+              "img": "../../../static/images/z-t-1-18.jpg",
+              "cont": "卫生巾"
+            },
+            {
+              "img": "../../../static/images/z-t-1-19.jpg",
+              "cont": "啤酒"
+            },
+            {
+              "img": "../../../static/images/z-t-1-20.jpg",
+              "cont": "沐浴"
+            },
+            {
+              "img": "../../../static/images/z-t-1-21.jpg",
+              "cont": "方便食品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-22.jpg",
+              "cont": "牙膏"
+            },
+            {
+              "img": "../../../static/images/z-t-1-23.jpg",
+              "cont": "白酒"
+            },
+            {
+              "img": "../../../static/images/z-t-1-24.jpg",
+              "cont": "平板电脑"
+            },
+            {
+              "img": "../../../static/images/z-t-1-25.jpg",
+              "cont": "葡萄酒"
+            },
+            {
+              "img": "../../../static/images/z-t-1-26.jpg",
+              "cont": "冲调饮品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-27.jpg",
+              "cont": "路由器"
+            },
+            {
+              "img": "../../../static/images/z-t-1-28.jpg",
+              "cont": "家庭清洁"
+            },
+            {
+              "img": "../../../static/images/z-t-1-29.jpg",
+              "cont": "面膜"
+            },
+            {
+              "img": "../../../static/images/z-t-1-30.jpg",
+              "cont": "清洁工具"
+            },
+            {
+              "img": "../../../static/images/z-t-1-31.jpg",
+              "cont": "一次性用品"
+            },
+            {
+              "img": "../../../static/images/z-t-1-32.jpg",
+              "cont": "单反相机"
+            },
+            {
+              "img": "../../../static/images/z-t-1-33.jpg",
+              "cont": "牙刷牙线"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "word2":[{
+      "s2":[
+        {
+          "word": [
+            "粮油干货"
+          ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "豆类"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "食用油"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "玉米油"
+          },
+          {
+            "img": "../../../static/images/z-t-2-4.jpg",
+            "cont": "花生油"
+          },
+          {
+            "img": "../../../static/images/z-t-2-5.jpg",
+            "cont": "大豆油"
+          },
+          {
+            "img": "../../../static/images/z-t-2-6.jpg",
+            "cont": "葵花籽油"
+          },{
+            "img": "../../../static/images/z-t-2-7.jpg",
+            "cont": "橄榄油"
+          },
+          {
+            "img": "../../../static/images/z-t-2-8.jpg",
+            "cont": "大米"
+          },
+          {
+            "img": "../../../static/images/z-t-2-9.jpg",
+            "cont": "面粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-10.jpg",
+            "cont": "杂粮"
+          },
+          {
+            "img": "../../../static/images/z-t-2-11.jpg",
+            "cont": "南北干货"
+          },
+          {
+            "img": "../../../static/images/z-t-2-12.jpg",
+            "cont": "海干货"
+          },
+          {
+            "img": "../../../static/images/z-t-2-13.jpg",
+            "cont": "面条"
+          }
+        ]
+        },
+        {
+          "word": [
+            "厨房调料"
+          ],
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-2-14.jpg",
+              "cont": "盐"
+            },
+            {
+              "img": "../../../static/images/z-t-2-15.jpg",
+              "cont": "糖"
+            },
+            {
+              "img": "../../../static/images/z-t-2-16.jpg",
+              "cont": "酱油"
+            },
+            {
+              "img": "../../../static/images/z-t-2-17.jpg",
+              "cont": "醋"
+            },
+            {
+              "img": "../../../static/images/z-t-2-18.jpg",
+              "cont": "烘焙原料"
+            },
+            {
+              "img": "../../../static/images/z-t-2-19.jpg",
+              "cont": "鸡精/味精"
+            },{
+              "img": "../../../static/images/z-t-2-22.jpg",
+              "cont": "调味酱"
+            },
+            {
+              "img": "../../../static/images/z-t-2-21.jpg",
+              "cont": "调味料"
+            },{
+              "img": "../../../static/images/z-t-2-20.jpg",
+              "cont": "香油"
+            },
+            {
+              "img": "../../../static/images/z-t-2-23.jpg",
+              "cont": "咖喱"
+            }
+          ]
+        },
+        {
+          "word": [
+            "休闲零食"
+          ],
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-2-24.jpg",
+              "cont": "坚果"
+            },
+            {
+              "img": "../../../static/images/z-t-2-25.jpg",
+              "cont": "糖果"
+            },
+            {
+              "img": "../../../static/images/z-t-2-26.jpg",
+              "cont": "巧克力"
+            },
+            {
+              "img": "../../../static/images/z-t-2-27.jpg",
+              "cont": "肉脯"
+            },
+            {
+              "img": "../../../static/images/z-t-2-28.jpg",
+              "cont": "蜜饯/果干"
+            },
+            {
+              "img": "../../../static/images/z-t-2-29.jpg",
+              "cont": "果冻布丁"
+            },{
+              "img": "../../../static/images/z-t-2-30.jpg",
+              "cont": "海味零食"
+            },
+            {
+              "img": "../../../static/images/z-t-2-31.jpg",
+              "cont": "膨化食品"
+            },
+            {
+              "img": "../../../static/images/z-t-2-32.jpg",
+              "cont": "奶酪干"
+            },
+            {
+              "img": "../../../static/images/z-t-2-32.jpg",
+              "cont": "龟梨膏"
+            }
+          ]
+        },
+        {
+          "word": [
+            "饼干糕点"
+          ],
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-2-34.jpg",
+              "cont": "饼干"
+            },
+            {
+              "img": "../../../static/images/z-t-2-35.jpg",
+              "cont": "肉松饼"
+            },
+            {
+              "img": "../../../static/images/z-t-2-36.jpg",
+              "cont": "曲奇"
+            },
+            {
+              "img": "../../../static/images/z-t-2-37.jpg",
+              "cont": "威化"
+            },
+            {
+              "img": "../../../static/images/z-t-2-38.jpg",
+              "cont": "西式糕点"
+            },
+            {
+              "img": "../../../static/images/z-t-2-39.jpg",
+              "cont": "蛋卷"
+            },
+            {
+              "img": "../../../static/images/z-t-2-40.jpg",
+              "cont": "蛋黄派"
+            },
+            {
+              "img": "../../../static/images/z-t-2-41.jpg",
+              "cont": "沙琪玛"
+            }
+          ]
+        },
+        {
+          "word": [
+            "方便速食"
+          ],
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-2-42.jpg",
+              "cont": "方便面"
+            },
+            {
+              "img": "../../../static/images/z-t-2-43.jpg",
+              "cont": "火腿肠"
+            },
+            {
+              "img": "../../../static/images/z-t-2-44.jpg",
+              "cont": "下饭菜"
+            },
+            {
+              "img": "../../../static/images/z-t-2-45.jpg",
+              "cont": "八宝粥"
+            },
+            {
+              "img": "../../../static/images/z-t-2-46.jpg",
+              "cont": "罐头"
+            },
+            {
+              "img": "../../../static/images/z-t-2-47.jpg",
+              "cont": "蛋制品"
+            },
+            {
+              "img": "../../../static/images/z-t-2-48.jpg",
+              "cont": "粉丝"
+            },
+            {
+              "img": "../../../static/images/z-t-2-49.jpg",
+              "cont": "挂面"
+            },
+            {
+              "img": "../../../static/images/z-t-2-50.jpg",
+              "cont": "粽子"
+            },
+            {
+              "img": "../../../static/images/z-t-2-51.jpg",
+              "cont": "意大利面"
+            }
+          ]
+        }
+        ]
+      }],
+  "word3":[{
+    "s2":[
+      {
+        "word": [
+          "甘甜水果"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-3-1.jpg",
+            "cont": "桃"
+          },
+          {
+            "img": "../../../static/images/z-t-3-2.jpg",
+            "cont": "榴莲"
+          },
+          {
+            "img": "../../../static/images/z-t-3-3.jpg",
+            "cont": "芒果"
+          },
+          {
+            "img": "../../../static/images/z-t-3-4.jpg",
+            "cont": "火龙果"
+          },
+          {
+            "img": "../../../static/images/z-t-3-5.jpg",
+            "cont": "奇异果"
+          },
+          {
+            "img": "../../../static/images/z-t-3-6.jpg",
+            "cont": "橙子"
+          }
+        ]
+      },
+      {
+        "word": [
+          "乳品速食"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-3-7.jpg",
+            "cont": "冰淇淋"
+          },
+          {
+            "img": "../../../static/images/z-t-3-8.jpg",
+            "cont": "低温奶"
+          },
+          {
+            "img": "../../../static/images/z-t-3-9.jpg",
+            "cont": "冷藏饮料"
+          },
+          {
+            "img": "../../../static/images/z-t-3-10.jpg",
+            "cont": "奶酪黄油"
+          },
+          {
+            "img": "../../../static/images/z-t-3-11.jpg",
+            "cont": "蔬菜半成品"
+          },
+          {
+            "img": "../../../static/images/z-t-3-12.jpg",
+            "cont": "水饺馄饨"
+          },
+          {
+            "img": "../../../static/images/z-t-3-13.jpg",
+            "cont": "火锅食材"
+          },
+          {
+            "img": "../../../static/images/z-t-3-14.jpg",
+            "cont": "烘焙"
+          }
+        ]
+      },
+      {
+        "word": [
+          "肉禽蛋类"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-3-15.jpg",
+            "cont": "小龙虾"
+          },
+          {
+            "img": "../../../static/images/z-t-3-16.jpg",
+            "cont": "蟹"
+          },
+          {
+            "img": "../../../static/images/z-t-3-17.jpg",
+            "cont": "鱼"
+          },
+          {
+            "img": "../../../static/images/z-t-3-18.jpg",
+            "cont": "虾"
+          },
+          {
+            "img": "../../../static/images/z-t-3-19.jpg",
+            "cont": "贝"
+          },
+          {
+            "img": "../../../static/images/z-t-3-20.jpg",
+            "cont": "猪肉"
+          },
+          {
+            "img": "../../../static/images/z-t-3-21.jpg",
+            "cont": "牛肉"
+          },
+          {
+            "img": "../../../static/images/z-t-3-22.jpg",
+            "cont": "羊肉"
+          },
+          {
+            "img": "../../../static/images/z-t-3-23.jpg",
+            "cont": "鸡肉"
+          },
+          {
+            "img": "../../../static/images/z-t-3-24.jpg",
+            "cont": "蛋类"
+          }
+        ]
+      },
+      {
+        "word": [
+          "新鲜蔬菜"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-3-25.jpg",
+            "cont": "菌菇"
+          },
+          {
+            "img": "../../../static/images/z-t-3-26.jpg",
+            "cont": "根茎菜"
+          },
+          {
+            "img": "../../../static/images/z-t-3-27.jpg",
+            "cont": "绿叶菜"
+          }
+        ]
+      }
+
+    ]
+  }],
+  "word4":[{
+  "s2":[
+    {
+      "word": [
+        "饼干/糕点"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-1.jpg",
+          "cont": "饼干糕点"
+        },
+        {
+          "img": "../../../static/images/z-t-4-2.jpg",
+          "cont": "进口曲奇"
+        },
+        {
+          "img": "../../../static/images/z-t-4-3.jpg",
+          "cont": "进口威化"
+        },
+        {
+          "img": "../../../static/images/z-t-4-4.jpg",
+          "cont": "苏打饼干"
+        },
+        {
+          "img": "../../../static/images/z-t-4-5.jpg",
+          "cont": "进口蛋卷"
+        },
+        {
+          "img": "../../../static/images/z-t-4-6.jpg",
+          "cont": "夹心饼干"
+        }
+      ]
+    },
+    {
+      "word": [
+        "进口零食"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-7.jpg",
+          "cont": "进口海苔"
+        },
+        {
+          "img": "../../../static/images/z-t-4-8.jpg",
+          "cont": "进口坚果"
+        },
+        {
+          "img": "../../../static/images/z-t-4-9.jpg",
+          "cont": "虾条/虾片"
+        },
+        {
+          "img": "../../../static/images/z-t-4-10.jpg",
+          "cont": "进口鱼肠"
+        },
+        {
+          "img": "../../../static/images/z-t-4-11.jpg",
+          "cont": "进口果干"
+        },
+        {
+          "img": "../../../static/images/z-t-4-12.jpg",
+          "cont": "薯片薯条"
+        }
+      ]
+    },
+    {
+      "word": [
+        "进口咖啡"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-13.jpg",
+          "cont": "速溶咖啡"
+        },
+        {
+          "img": "../../../static/images/z-t-4-14.jpg",
+          "cont": "咖啡豆/粉"
+        },
+        {
+          "img": "../../../static/images/z-t-4-15.jpg",
+          "cont": "咖啡伴侣"
+        },
+        {
+          "img": "../../../static/images/z-t-4-16.jpg",
+          "cont": "白咖啡"
+        },
+        {
+          "img": "../../../static/images/z-t-4-17.jpg",
+          "cont": "咖啡胶囊"
+        },
+        {
+          "img": "../../../static/images/z-t-4-18.jpg",
+          "cont": "挂耳咖啡"
+        }
+      ]
+    },
+    {
+      "word": [
+        "麦片/冲调"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-19.jpg",
+          "cont": "进口麦片"
+        },
+        {
+          "img": "../../../static/images/z-t-4-20.jpg",
+          "cont": "麦卡卢蜂蜜"
+        },
+        {
+          "img": "../../../static/images/z-t-4-21.jpg",
+          "cont": "进口茶"
+        },
+        {
+          "img": "../../../static/images/z-t-4-22.jpg",
+          "cont": "进口柚子茶"
+        },
+        {
+          "img": "../../../static/images/z-t-4-23.jpg",
+          "cont": "进口代餐粉"
+        },
+        {
+          "img": "../../../static/images/z-t-4-24.jpg",
+          "cont": "可可粉"
+        }
+      ]
+    },
+    {
+      "word": [
+        "进口糖巧"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-25.jpg",
+          "cont": "生巧克力"
+        },
+        {
+          "img": "../../../static/images/z-t-4-26.jpg",
+          "cont": "黑巧克力"
+        },
+        {
+          "img": "../../../static/images/z-t-4-27.jpg",
+          "cont": "白巧克力"
+        },
+        {
+          "img": "../../../static/images/z-t-4-28.jpg",
+          "cont": "味觉糖"
+        },
+        {
+          "img": "../../../static/images/z-t-4-29.jpg",
+          "cont": "进口硬糖"
+        },
+        {
+          "img": "../../../static/images/z-t-4-30.jpg",
+          "cont": "进口润喉糖"
+        }
+      ]
+    },
+    {
+      "word": [
+        "粮油调味"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-31.jpg",
+          "cont": "橄榄油"
+        },
+        {
+          "img": "../../../static/images/z-t-4-32.jpg",
+          "cont": "泰国香米"
+        },
+        {
+          "img": "../../../static/images/z-t-4-33.jpg",
+          "cont": "意大利面"
+
+        },
+        {
+          "img": "../../../static/images/z-t-4-34.jpg",
+          "cont": "进口方便面"
+        },
+        {
+          "img": "../../../static/images/z-t-4-35.jpg",
+          "cont": "进口酱"
+        },
+        {
+          "img": "../../../static/images/z-t-4-36.jpg",
+          "cont": "进口鱼罐头"
+        }
+      ]
+    },
+    {
+      "word": [
+        "进口水饮"
+      ],
+      "smallbox": [
+        {
+          "img": "../../../static/images/z-t-4-37.jpg",
+          "cont": "进口矿泉水"
+        },
+        {
+          "img": "../../../static/images/z-t-4-38.jpg",
+          "cont": "进口气泡水"
+        },
+        {
+          "img": "../../../static/images/z-t-4-39.jpg",
+          "cont": "进口果汁"
+        },
+        {
+          "img": "../../../static/images/z-t-4-40.jpg",
+          "cont": "椰子水"
+        },
+        {
+          "img": "../../../static/images/z-t-4-41.jpg",
+          "cont": "碳酸饮料"
+        },
+        {
+          "img": "../../../static/images/z-t-4-42.jpg",
+          "cont": "网红饮料"
+        }
+      ]
+    }
+  ]
+}],
+  "word5":[{
+    "s2":[
+      {
+        "word": [
+          "饮料饮品"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-5-1.jpg",
+            "cont": "饮用水"
+          },
+          {
+            "img": "../../../static/images/z-t-5-2.jpg",
+            "cont": "碳酸饮料"
+          },
+          {
+            "img": "../../../static/images/z-t-5-3.jpg",
+            "cont": "茶饮料"
+          },
+          {
+            "img": "../../../static/images/z-t-5-4.jpg",
+            "cont": "果汁"
+          },
+          {
+            "img": "../../../static/images/z-t-5-5.jpg",
+            "cont": "功能饮料"
+          },
+          {
+            "img": "../../../static/images/z-t-5-6.jpg",
+            "cont": "植物蛋白饮"
+          }
+        ]
+      },
+      {
+        "word": [
+          "牛奶饮品"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-5-7.jpg",
+            "cont": "纯牛奶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-8.jpg",
+            "cont": "酸奶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-9.jpg",
+            "cont": "儿童奶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-10.jpg",
+            "cont": "风味牛奶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-11.jpg",
+            "cont": "豆奶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-12.jpg",
+            "cont": "羊奶"
+          }
+        ]
+      },
+      {
+        "word": [
+          "茶冲咖啡"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-5-13.jpg",
+            "cont": "麦片"
+          },
+          {
+            "img": "../../../static/images/z-t-5-14.jpg",
+            "cont": "咖啡"
+          },
+          {
+            "img": "../../../static/images/z-t-5-15.jpg",
+            "cont": "成人奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-5-16.jpg",
+            "cont": "蜂蜜"
+          },
+          {
+            "img": "../../../static/images/z-t-5-17.jpg",
+            "cont": "芝麻糊"
+          },
+          {
+            "img": "../../../static/images/z-t-5-18.jpg",
+            "cont": "豆奶/浆粉"
+          },
+          {
+            "img": "../../../static/images/z-t-5-19.jpg",
+            "cont": "奶茶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-20.jpg",
+            "cont": "红茶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-21.jpg",
+            "cont": "绿茶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-22.jpg",
+            "cont": "花草茶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-23.jpg",
+            "cont": "乌龙茶"
+          },
+          {
+            "img": "../../../static/images/z-t-5-24.jpg",
+            "cont": "柚子茶"
+          }
+        ]
+      }
+    ]
+  }],
+  "word6":[{
+    "s2":[
+      {
+        "word": [
+          "中外名酒"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-6-1.jpg",
+            "cont": "白酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-2.jpg",
+            "cont": "黄酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-3.jpg",
+            "cont": "啤酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-4.jpg",
+            "cont": "红葡萄酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-5.jpg",
+            "cont": "白葡萄酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-6.jpg",
+            "cont": "起泡酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-7.jpg",
+            "cont": "香槟"
+          },
+          {
+            "img": "../../../static/images/z-t-6-8.jpg",
+            "cont": "预调酒"
+          },
+          {
+            "img": "../../../static/images/z-t-6-9.jpg",
+            "cont": "洋酒"
+          }
+        ]
+      }
+    ]
+  }],
+  "word7":[{
+    "s2":[
+      {
+        "word": [
+          "纸品湿巾"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-7-1.jpg",
+            "cont": "厨房用纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-2.jpg",
+            "cont": "平板卫生纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-3.jpg",
+            "cont": "手帕纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-4.jpg",
+            "cont": "湿巾"
+          },
+          {
+            "img": "../../../static/images/z-t-7-5.jpg",
+            "cont": "卷筒纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-6.jpg",
+            "cont": "抽纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-51.jpg",
+            "cont": "商务纸"
+          },
+          {
+            "img": "../../../static/images/z-t-7-61.jpg",
+            "cont": "湿厕纸"
+          }
+        ]
+      },
+      {
+        "word": [
+          "衣物清洁"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-7-7.jpg",
+            "cont": "洗衣粉"
+          },
+          {
+            "img": "../../../static/images/z-t-7-8.jpg",
+            "cont": "洗衣皂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-9.jpg",
+            "cont": "洗衣液凝珠"
+          },
+          {
+            "img": "../../../static/images/z-t-7-10.jpg",
+            "cont": "柔顺剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-11.jpg",
+            "cont": "衣物除菌液"
+          },
+          {
+            "img": "../../../static/images/z-t-7-12.jpg",
+            "cont": "衣领净"
+          },
+          {
+            "img": "../../../static/images/z-t-7-13.jpg",
+            "cont": "彩漂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-14.jpg",
+            "cont": "去渍剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-15.jpg",
+            "cont": "天然皂粉"
+          }
+        ]
+      },
+      {
+        "word": [
+          "驱虫除湿"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-7-16.jpg",
+            "cont": "驱蚊用品"
+          },
+          {
+            "img": "../../../static/images/z-t-7-17.jpg",
+            "cont": "樟脑樟木"
+          },
+          {
+            "img": "../../../static/images/z-t-7-18.jpg",
+            "cont": "除螨仪/剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-19.jpg",
+            "cont": "空气清新剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-20.jpg",
+            "cont": "除臭消毒"
+          }
+        ]
+      },
+      {
+        "word": [
+          "家庭清洁"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-7-21.jpg",
+            "cont": "洗洁精"
+          },
+          {
+            "img": "../../../static/images/z-t-7-22.jpg",
+            "cont": "消毒液"
+          },
+          {
+            "img": "../../../static/images/z-t-7-23.jpg",
+            "cont": "油污清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-7-24.jpg",
+            "cont": "鱼缸瓷砖清"
+          },
+          {
+            "img": "../../../static/images/z-t-7-25.jpg",
+            "cont": "除臭芳香"
+          },
+          {
+            "img": "../../../static/images/z-t-7-26.jpg",
+            "cont": "地板清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-7-27.jpg",
+            "cont": "家私清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-7-28.jpg",
+            "cont": "多用途清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-7-29.jpg",
+            "cont": "家电清洁剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-30.jpg",
+            "cont": "管道疏通驱"
+          },
+          {
+            "img": "../../../static/images/z-t-7-31.jpg",
+            "cont": "防霉防蛀"
+          },
+          {
+            "img": "../../../static/images/z-t-7-32.jpg",
+            "cont": "鞋用品"
+          },
+          {
+            "img": "../../../static/images/z-t-7-33.jpg",
+            "cont": "马桶清洁剂"
+          },
+          {
+            "img": "../../../static/images/z-t-7-34.jpg",
+            "cont": "水垢清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-7-35.jpg",
+            "cont": "玻璃清洁"
+          }
+        ]
+      },
+      {
+        "word": [
+          "清洁用品"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-7-36.jpg",
+            "cont": "钢丝球"
+          },
+          {
+            "img": "../../../static/images/z-t-7-37.jpg",
+            "cont": "抹布百洁布"
+          },
+          {
+            "img": "../../../static/images/z-t-7-38.jpg",
+            "cont": "除尘工具"
+          },
+          {
+            "img": "../../../static/images/z-t-7-39.jpg",
+            "cont": "擦窗器配件"
+          },
+          {
+            "img": "../../../static/images/z-t-7-40.jpg",
+            "cont": "拖把/配件"
+          },
+          {
+            "img": "../../../static/images/z-t-7-41.jpg",
+            "cont": "垃圾桶"
+          },
+          {
+            "img": "../../../static/images/z-t-7-42.jpg",
+            "cont": "肥皂盒"
+          },
+          {
+            "img": "../../../static/images/z-t-7-43.jpg",
+            "cont": "防滑垫"
+          },
+          {
+            "img": "../../../static/images/z-t-7-44.jpg",
+            "cont": "家务手套"
+          },
+          {
+            "img": "../../../static/images/z-t-7-45.jpg",
+            "cont": "滚毛毡"
+          },
+          {
+            "img": "../../../static/images/z-t-7-46.jpg",
+            "cont": "扫把/簸箕"
+          },
+          {
+            "img": "../../../static/images/z-t-7-47.jpg",
+            "cont": "垃圾袋"
+          }
+        ]
+      }
+    ]
+  }],
+  "word8":[{
+    "s2":[
+      {
+        "word": [
+          "奶粉"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "1段奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "3段奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "2段奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-4.jpg",
+            "cont": "4段奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-5.jpg",
+            "cont": "孕妈奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-6.jpg",
+            "cont": "有机奶粉"
+          },
+          {
+            "img": "../../../static/images/z-t-2-5.jpg",
+            "cont": "特殊配方奶"
+          },
+          {
+            "img": "../../../static/images/z-t-2-6.jpg",
+            "cont": "羊奶粉"
+          }
+        ]
+      },
+      {
+        "word": [
+          "益智玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "早教启智"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "健身架"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "摇铃/床铃"
+          },
+          {
+            "img": "../../../static/images/z-t-2-4.jpg",
+            "cont": "推拉玩具"
+          }
+        ]
+      },
+      {
+        "word": [
+          "积木拼插"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "积木"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "磁力片/棒"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "立体拼插"
+          },
+          {
+            "img": "../../../static/images/z-t-2-4.jpg",
+            "cont": "拼图"
+          }
+        ]
+      },
+      {
+        "word": [
+          "毛绒布艺"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "毛绒/布艺"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "靠垫/抱枕"
+          }
+        ]
+      },
+      {
+        "word": [
+          "创意减压"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "创意玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "减压玩具"
+          }
+        ]
+      },{
+        "word": [
+          "遥控电动"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "遥控车"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "遥控飞机"
+          },
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "遥控船"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "机器人"
+          },
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "轨道/助力"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "减压玩具"
+          }
+        ]
+      },
+      {
+        "word": [
+          "模型玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "仿真模型"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "拼插模型"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "收藏爱好"
+          }
+        ]
+      },
+      {
+        "word": [
+          "健身玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "户外玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "爬行垫/毯"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "戏水玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "炫舞毯"
+          }
+        ]
+      },
+      {
+        "word": [
+          "动漫玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "电影周边"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "卡通周边"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "周游周边"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "炫舞毯"
+          }
+        ]
+      },
+      {
+        "word": [
+          "娃娃玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "芭比娃娃"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "智能娃娃"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "卡通娃娃"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "炫舞毯"
+          }
+        ]
+      },
+      {
+        "word绘画/diy-玩具乐器": [
+          "健身玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-2-1.jpg",
+            "cont": "户外玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-2-2.jpg",
+            "cont": "爬行垫/毯"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "戏水玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-2-3.jpg",
+            "cont": "炫舞毯"
+          }
+        ]
+      }
+    ]
+  }],
+  "word9":[{
+    "s2":[
+      {
+        "word": [
+          "适用年龄"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-1.jpg",
+            "cont": "0-6个月"
+          },
+          {
+            "img": "../../../static/images/z-t-9-2.jpg",
+            "cont": "7-12个月"
+          },
+          {
+            "img": "../../../static/images/z-t-9-3.jpg",
+            "cont": "1-3岁"
+          },
+          {
+            "img": "../../../static/images/z-t-9-4.jpg",
+            "cont": "4-6岁"
+          },
+          {
+            "img": "../../../static/images/z-t-9-5.jpg",
+            "cont": "7-14岁"
+          },
+          {
+            "img": "../../../static/images/z-t-9-6.jpg",
+            "cont": "14岁以上"
+          }
+        ]
+      },
+      {
+        "word": [
+          "益智玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-7.jpg",
+            "cont": "早教启智"
+          },
+          {
+            "img": "../../../static/images/z-t-9-8.jpg",
+            "cont": "健身架"
+          },
+          {
+            "img": "../../../static/images/z-t-9-9.jpg",
+            "cont": "摇铃/床铃"
+          },
+          {
+            "img": "../../../static/images/z-t-9-10.jpg",
+            "cont": "推拉玩具"
+          }
+        ]
+      },
+      {
+        "word": [
+          "积木拼插"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-11.jpg",
+            "cont": "积木"
+          },
+          {
+            "img": "../../../static/images/z-t-9-12.jpg",
+            "cont": "磁力片/棒"
+          },
+          {
+            "img": "../../../static/images/z-t-9-13.jpg",
+            "cont": "立体拼插"
+          },
+          {
+            "img": "../../../static/images/z-t-9-14.jpg",
+            "cont": "拼图"
+          }
+        ]
+      },
+      {
+        "word": [
+          "毛绒布艺"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-15.jpg",
+            "cont": "毛绒/布艺"
+          },
+          {
+            "img": "../../../static/images/z-t-9-16.jpg",
+            "cont": "靠垫/抱枕"
+          }
+        ]
+      },
+      {
+        "word": [
+          "创意减压"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-17.jpg",
+            "cont": "创意玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-9-18.jpg",
+            "cont": "减压玩具"
+          }
+        ]
+      },{
+        "word": [
+          "遥控电动"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-19.jpg",
+            "cont": "遥控车"
+          },
+          {
+            "img": "../../../static/images/z-t-9-20.jpg",
+            "cont": "遥控飞机"
+          },
+          {
+            "img": "../../../static/images/z-t-9-21.jpg",
+            "cont": "遥控船"
+          },
+          {
+            "img": "../../../static/images/z-t-9-22.jpg",
+            "cont": "机器人"
+          },
+          {
+            "img": "../../../static/images/z-t-9-23.jpg",
+            "cont": "轨道/助力"
+          }
+        ]
+      },
+      {
+        "word": [
+          "模型玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-24.jpg",
+            "cont": "仿真模型"
+          },
+          {
+            "img": "../../../static/images/z-t-9-25.jpg",
+            "cont": "拼插模型"
+          },
+          {
+            "img": "../../../static/images/z-t9-26.jpg",
+            "cont": "收藏爱好"
+          }
+        ]
+      },
+      {
+        "word": [
+          "健身玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-27.jpg",
+            "cont": "户外玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-9-28.jpg",
+            "cont": "爬行垫/毯"
+          },
+          {
+            "img": "../../../static/images/z-t-9-29.jpg",
+            "cont": "戏水玩具"
+          },
+          {
+            "img": "../../../static/images/z-t-9-30.jpg",
+            "cont": "炫舞毯"
+          }
+        ]
+      },
+      {
+        "word": [
+          "动漫玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-31.jpg",
+            "cont": "电影周边"
+          },
+          {
+            "img": "../../../static/images/z-t-9-32.jpg",
+            "cont": "卡通周边"
+          },
+          {
+            "img": "../../../static/images/z-t-9-33.jpg",
+            "cont": "周游周边"
+          }
+        ]
+      },
+      {
+        "word": [
+          "娃娃玩具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-34.jpg",
+            "cont": "芭比娃娃"
+          },
+          {
+            "img": "../../../static/images/z-t-9-35.jpg",
+            "cont": "智能娃娃"
+          },
+          {
+            "img": "../../../static/images/z-t-9-36.jpg",
+            "cont": "卡通娃娃"
+          }
+        ]
+      },
+      {
+        "word": [
+          "绘画/DIY"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-37.jpg",
+            "cont": "手工彩泥"
+          },
+          {
+            "img": "../../../static/images/z-t9-38.jpg",
+            "cont": "绘画工具"
+          },
+          {
+            "img": "../../../static/images/z-t-9-39.jpg",
+            "cont": "情景玩具"
+          }
+        ]
+      },
+      {
+        "word": [
+          "乐器"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-9-40.jpg",
+            "cont": "钢琴"
+          },
+          {
+            "img": "../../../static/images/z-t-9-41.jpg",
+            "cont": "电钢琴"
+          },
+          {
+            "img": "../../../static/images/z-t-9-42.jpg",
+            "cont": "电子琴"
+          },
+          {
+            "img": "../../../static/images/z-t-9-43.jpg",
+            "cont": "吉他"
+          },
+          {
+            "img": "../../../static/images/z-t-9-44.jpg",
+            "cont": "尤克里里"
+          },
+          {
+            "img": "../../../static/images/z-t-9-45.jpg",
+            "cont": "民族管弦乐"
+          },
+          {
+            "img": "../../../static/images/z-t-9-46.jpg",
+            "cont": "打击乐器"
+          },
+          {
+            "img": "../../../static/images/z-t-9-47.jpg",
+            "cont": "手风琴"
+          },
+          {
+            "img": "../../../static/images/z-t-9-48.jpg",
+            "cont": "口琴/竖笛"
+          },
+          {
+            "img": "../../../static/images/z-t-9-49.jpg",
+            "cont": "西洋管弦"
+          },
+          {
+            "img": "../../../static/images/z-t-9-50.jpg",
+            "cont": "电脑音乐"
+          },
+          {
+            "img": "../../../static/images/z-t-9-51.jpg",
+            "cont": "乐器配件"
+          }
+        ]
+      }
+    ]
+  }],
+  "word10":[{
+    "s2":[
+      {
+        "word": [
+          "美容护发"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-10-1.jpg",
+            "cont": "染发烫发"
+          },
+          {
+            "img": "../../../static/images/z-t-10-2.jpg",
+            "cont": "定型造型"
+          },
+          {
+            "img": "../../../static/images/z-t-10-3.jpg",
+            "cont": "洗发水"
+          },
+          {
+            "img": "../../../static/images/z-t-10-4.jpg",
+            "cont": "护法/润发"
+          },
+          {
+            "img": "../../../static/images/z-t-10-5.jpg",
+            "cont": "洗护套装"
+          },
+          {
+            "img": "../../../static/images/z-t-10-6.jpg",
+            "cont": "弹力素"
+          },
+          {
+            "img": "../../../static/images/z-t-10-66.jpg",
+            "cont": "旅行装"
+          }
+        ]
+      },
+      {
+        "word": [
+          "面部护理"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-10-7.jpg",
+            "cont": "爽肤水"
+          },
+          {
+            "img": "../../../static/images/z-t-10-8.jpg",
+            "cont": "乳液"
+          },
+          {
+            "img": "../../../static/images/z-t-10-9.jpg",
+            "cont": "面霜"
+          },
+          {
+            "img": "../../../static/images/z-t-10-10.jpg",
+            "cont": "精华"
+          },
+          {
+            "img": "../../../static/images/z-t-10-11.jpg",
+            "cont": "眼霜/眼膜"
+          },
+          {
+            "img": "../../../static/images/z-t-10-12.jpg",
+            "cont": "卸妆"
+          },
+          {
+            "img": "../../../static/images/z-t-10-13.jpg",
+            "cont": "唇部护理"
+          },
+          {
+            "img": "../../../static/images/z-t-10-14.jpg",
+            "cont": "喷雾"
+          }
+        ]
+      },
+      {
+        "word": [
+          "女性护理"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-10-15.jpg",
+            "cont": "女性湿巾"
+          },
+          {
+            "img": "../../../static/images/z-t10-16.jpg",
+            "cont": "私处私液"
+          },
+          {
+            "img": "../../../static/images/z-t-10-17.jpg",
+            "cont": "组合套装"
+          },
+          {
+            "img": "../../../static/images/z-t-10-18.jpg",
+            "cont": "卫生巾"
+          },
+          {
+            "img": "../../../static/images/z-t-10-19.jpg",
+            "cont": "护垫"
+          },
+          {
+            "img": "../../../static/images/z-t-10-20.jpg",
+            "cont": "卫生棉条"
+          },
+          {
+            "img": "../../../static/images/z-t-10-21.jpg",
+            "cont": "裤型卫生巾"
+          }
+        ]
+      },
+      {
+        "word": [
+          "身体护理"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-10-22.jpg",
+            "cont": "脱毛"
+          },
+          {
+            "img": "../../../static/images/z-t-10-23.jpg",
+            "cont": "手部护理"
+          },
+          {
+            "img": "../../../static/images/z-t-10-24.jpg",
+            "cont": "身体乳"
+          },
+          {
+            "img": "../../../static/images/z-t-10-25.jpg",
+            "cont": "足部护理"
+          },
+          {
+            "img": "../../../static/images/z-t-10-26.jpg",
+            "cont": "颈部护理"
+          },
+          {
+            "img": "../../../static/images/z-t-10-27.jpg",
+            "cont": "美体塑身"
+          }
+        ]
+      },
+      {
+        "word": [
+          "口腔护理"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-10-28.jpg",
+            "cont": "口喷"
+          },
+          {
+            "img": "../../../static/images/z-t-10-29.jpg",
+            "cont": "压线"
+          },
+          {
+            "img": "../../../static/images/z-t-10-30.jpg",
+            "cont": "牙粉牙贴"
+          },
+          {
+            "img": "../../../static/images/z-t-10-31.jpg",
+            "cont": "漱口水"
+          },
+          {
+            "img": "../../../static/images/z-t-10-32.jpg",
+            "cont": "牙刷"
+          },
+          {
+            "img": "../../../static/images/z-t-10-33.jpg",
+            "cont": "牙膏"
+          },
+          {
+            "img": "../../../static/images/z-t-10-34.jpg",
+            "cont": "电动牙刷"
+          },
+          {
+            "img": "../../../static/images/z-t-10-35.jpg",
+            "cont": "儿童牙刷"
+          },
+          {
+            "img": "../../../static/images/z-t-10-36.jpg",
+            "cont": "儿童牙膏"
+          }
+        ]
+      }
+    ]
+  }],
+  "word11":[
+    {
+      "s1":[
+        {
+          "word": "宠物生活",
+          "smallbox": [
+            {
+              "img": "../../../static/images/z-t-11-1.jpg",
+              "cont": "水族"
+            },
+            {
+              "img": "../../../static/images/z-t-11-2.jpg",
+              "cont": "狗粮"
+            },
+            {
+              "img": "../../../static/images/z-t-11-3.jpg",
+              "cont": "猫粮"
+            },
+            {
+              "img": "../../../static/images/z-t-11-4.jpg",
+              "cont": "猫罐头"
+            },
+            {
+              "img": "../../../static/images/z-t-11-5.jpg",
+              "cont": "狗零食"
+            },
+            {
+              "img": "../../../static/images/z-t-11-6.jpg",
+              "cont": "猫零食"
+            },
+            {
+              "img": "../../../static/images/z-t-11-7.jpg",
+              "cont": "医疗保健"
+            },
+            {
+              "img": "../../../static/images/z-t-11-8.jpg",
+              "cont": "猫狗玩具"
+            },
+            {
+              "img": "../../../static/images/z-t-11-9.jpg",
+              "cont": "宠物服饰"
+            },
+            {
+              "img": "../../../static/images/z-t-11-10.jpg",
+              "cont": "猫狗窝"
+            },
+            {
+              "img": "../../../static/images/z-t-11-11.jpg",
+              "cont": "美容用具"
+            },
+            {
+              "img": "../../../static/images/z-t-11-12.jpg",
+              "cont": "猫砂"
+            },
+            {
+              "img": "../../../static/images/z-t-11-13.jpg",
+              "cont": "狗厕所"
+            },
+            {
+              "img": "../../../static/images/z-t-11-14.jpg",
+              "cont": "宠物牵引"
+            },
+            {
+              "img": "../../../static/images/z-t-11-15.jpg",
+              "cont": "食具水具"
+            },
+            {
+              "img": "../../../static/images/z-t-11-16.jpg",
+              "cont": "小宠用品"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "word12":[{
+    "s2":[
+      {
+        "word": [
+          "床上用品"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-12-1.jpg",
+            "cont": "床褥/床垫"
+          },
+          {
+            "img": "../../../static/images/z-t-12-2.jpg",
+            "cont": "被子"
+          },
+          {
+            "img": "../../../static/images/z-t-12-3.jpg",
+            "cont": "床品套件"
+          },
+          {
+            "img": "../../../static/images/z-t-12-4.jpg",
+            "cont": "儿童床品"
+          },
+          {
+            "img": "../../../static/images/z-t-12-5.jpg",
+            "cont": "口调被"
+          },
+          {
+            "img": "../../../static/images/z-t-12-6.jpg",
+            "cont": "凉席"
+          },
+          {
+            "img": "../../../static/images/z-t-12-7.jpg",
+            "cont": "蚊帐"
+          },
+          {
+            "img": "../../../static/images/z-t-12-8.jpg",
+            "cont": "枕头"
+          },
+          {
+            "img": "../../../static/images/z-t-12-9.jpg",
+            "cont": "床单/床笠"
+          }
+        ]
+      },
+      {
+        "word": [
+          "家纺布艺"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-12-10.jpg",
+            "cont": "马桶套"
+          },
+          {
+            "img": "../../../static/images/z-t-12-11.jpg",
+            "cont": "毛巾面巾"
+          },
+          {
+            "img": "../../../static/images/z-t-12-12.jpg",
+            "cont": "沙发垫/巾"
+          },
+          {
+            "img": "../../../static/images/z-t-12-13.jpg",
+            "cont": "浴巾浴袍"
+          },
+          {
+            "img": "../../../static/images/z-t-12-14.jpg",
+            "cont": "靠垫坐垫"
+          },
+          {
+            "img": "../../../static/images/z-t-12-15.jpg",
+            "cont": "地毯地垫"
+          },
+          {
+            "img": "../../../static/images/z-t-12-16.jpg",
+            "cont": "餐桌布艺"
+          },
+          {
+            "img": "../../../static/images/z-t-12-17.jpg",
+            "cont": "布艺防尘罩"
+          },
+          {
+            "img": "../../../static/images/z-t-12-18.jpg",
+            "cont": "窗帘"
+          }
+        ]
+      },
+      {
+        "word": [
+          "餐具水具"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-12-19.jpg",
+            "cont": "碗/碟/盘"
+          },
+          {
+            "img": "../../../static/images/z-t-12-20.jpg",
+            "cont": "保鲜盒"
+          },
+          {
+            "img": "../../../static/images/z-t-12-21.jpg",
+            "cont": "餐具套装"
+          },
+          {
+            "img": "../../../static/images/z-t-12-22.jpg",
+            "cont": "密封罐"
+          },
+          {
+            "img": "../../../static/images/z-t-12-23.jpg",
+            "cont": "水具"
+          },
+          {
+            "img": "../../../static/images/z-t-12-24.jpg",
+            "cont": "滤水壶"
+          },
+          {
+            "img": "../../../static/images/z-t-12-25.jpg",
+            "cont": "茶具"
+          },
+          {
+            "img": "../../../static/images/z-t-12-26.jpg",
+            "cont": "酒杯"
+          },
+          {
+            "img": "../../../static/images/z-t-12-27.jpg",
+            "cont": "保温杯"
+          },
+          {
+            "img": "../../../static/images/z-t-12-28.jpg",
+            "cont": "保鲜膜"
+          },
+          {
+            "img": "../../../static/images/z-t-12-29.jpg",
+            "cont": "纸杯"
+          },
+          {
+            "img": "../../../static/images/z-t-12-30.jpg",
+            "cont": "牙签/棉签"
+          },
+          {
+            "img": "../../../static/images/z-t-12-31.jpg",
+            "cont": "保鲜袋"
+          },
+          {
+            "img": "../../../static/images/z-t-12-32.jpg",
+            "cont": "垃圾袋"
+          },
+          {
+            "img": "../../../static/images/z-t-12-33.jpg",
+            "cont": "一次性手套"
+          }
+        ]
+      }
+      ]
+  }],
+  "word13":[{
+    "s2":[
+      {
+        "word": [
+          "时尚裙装"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-13-1.jpg",
+            "cont": "连衣裙"
+          },
+          {
+            "img": "../../../static/images/z-t-13-2.jpg",
+            "cont": "半裙"
+          },
+          {
+            "img": "../../../static/images/z-t-13-3.jpg",
+            "cont": "针织裙"
+          },
+          {
+            "img": "../../../static/images/z-t13-4.jpg",
+            "cont": "牛仔裙"
+          },
+          {
+            "img": "../../../static/images/z-t-13-5.jpg",
+            "cont": "通勤裙"
+          },
+          {
+            "img": "../../../static/images/z-t-13-6.jpg",
+            "cont": "真丝裙"
+          }
+        ]
+      },
+      {
+        "word": [
+          "女上衣"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-13-7.jpg",
+            "cont": "短袖T恤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-8.jpg",
+            "cont": "打底衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-9.jpg",
+            "cont": "衬衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-10.jpg",
+            "cont": "雪纺衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-11.jpg",
+            "cont": "小西装"
+          },
+          {
+            "img": "../../../static/images/z-t-13-12.jpg",
+            "cont": "风衣"
+          },
+          {
+            "img": "../../../static/images/z-t-13-13.jpg",
+            "cont": "针织衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-14.jpg",
+            "cont": "夹克"
+          },
+          {
+            "img": "../../../static/images/z-t-13-15.jpg",
+            "cont": "卫衣"
+          }
+        ]
+      },
+      {
+        "word": [
+          "女裤装"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-13-16.jpg",
+            "cont": "九分裤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-17.jpg",
+            "cont": "阔腿裤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-18.jpg",
+            "cont": "女仔裤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-19.jpg",
+            "cont": "紧身裤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-20.jpg",
+            "cont": "长裤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-216.jpg",
+            "cont": "短裤"
+          }
+        ]
+      },
+      {
+        "word": [
+          "男内搭"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-13-22.jpg",
+            "cont": "T恤"
+          },
+          {
+            "img": "../../../static/images/z-t-13-23.jpg",
+            "cont": "衬衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-24.jpg",
+            "cont": "马甲/背心"
+          },
+          {
+            "img": "../../../static/images/z-t-13-25.jpg",
+            "cont": "POLO衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-26.jpg",
+            "cont": "针织衫"
+          },
+          {
+            "img": "../../../static/images/z-t-13-27.jpg",
+            "cont": "卫衣"
+          }
+        ]
+
+      }
+    ]
+  }],
+  "word14":[{
+    "s2":[
+      {
+        "word": [
+          "潮流女包"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-14-1.jpg",
+            "cont": "双肩包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-2.jpg",
+            "cont": "钱包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-3.jpg",
+            "cont": "斜挎包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-4.jpg",
+            "cont": "单肩包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-5.jpg",
+            "cont": "手提包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-6.jpg",
+            "cont": "真皮包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-41.jpg",
+            "cont": "水桶包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-51.jpg",
+            "cont": "帆布包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-61.jpg",
+            "cont": "迷你包"
+          }
+        ]
+      },
+      {
+        "word": [
+          "奢侈大牌"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t142-7.jpg",
+            "cont": "COACH"
+          },
+          {
+            "img": "../../../static/images/z-t-14-8.jpg",
+            "cont": "GUCCI"
+          },
+          {
+            "img": "../../../static/images/z-t-14-9.jpg",
+            "cont": "MK"
+          },
+          {
+            "img": "../../../static/images/z-t-14-10.jpg",
+            "cont": "MCM"
+          },
+          {
+            "img": "../../../static/images/z-t-14-11.jpg",
+            "cont": "菲格拉慕"
+          },
+          {
+            "img": "../../../static/images/z-t-14-12.jpg",
+            "cont": "雷朋"
+          },
+          {
+            "img": "../../../static/images/z-t-14-13.jpg",
+            "cont": "TUMI"
+          },
+          {
+            "img": "../../../static/images/z-t-14-14.jpg",
+            "cont": "巴宝莉"
+          },
+          {
+            "img": "../../../static/images/z-t-14-15.jpg",
+            "cont": "PRADA"
+          },
+          {
+            "img": "../../../static/images/z-t-14-16.jpg",
+            "cont": "施华洛世奇"
+          },
+          {
+            "img": "../../../static/images/z-t-14-17.jpg",
+            "cont": "珑骧"
+          },
+          {
+            "img": "../../../static/images/z-t-14-18.jpg",
+            "cont": "RIMOWA"
+          },
+          {
+            "img": "../../../static/images/z-t-14-19.jpg",
+            "cont": "阿玛尼"
+          },
+          {
+            "img": "../../../static/images/z-t-14-20.jpg",
+            "cont": "VERSACE"
+          },
+          {
+            "img": "../../../static/images/z-t-14-21.jpg",
+            "cont": "万宝龙"
+          },
+          {
+            "img": "../../../static/images/z-t-14-22.jpg",
+            "cont": "BALLY"
+          },
+          {
+            "img": "../../../static/images/z-t-14-23.jpg",
+            "cont": "FENDILA"
+          }
+        ]
+      },
+      {
+        "word": [
+          "功能箱包"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-14-24.jpg",
+            "cont": "登机箱"
+          },
+          {
+            "img": "../../../static/images/z-t-14-25.jpg",
+            "cont": "铝制拉杆箱"
+          },
+          {
+            "img": "../../../static/images/z-t-14-26.jpg",
+            "cont": "万向轮"
+          },
+          {
+            "img": "../../../static/images/z-t-14-27.jpg",
+            "cont": "布箱"
+          },
+          {
+            "img": "../../../static/images/z-t-14-28.jpg",
+            "cont": "儿童拉杆箱"
+          },
+          {
+            "img": "../../../static/images/z-t-14-29.jpg",
+            "cont": "拉杆包"
+          },{
+            "img": "../../../static/images/z-t-14-30.jpg",
+            "cont": "电脑包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-31.jpg",
+            "cont": "旅行包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-32.jpg",
+            "cont": "学生书包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-33.jpg",
+            "cont": "登山包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-34.jpg",
+            "cont": "腰包胸包"
+          },
+          {
+            "img": "../../../static/images/z-t-14-35.jpg",
+            "cont": "收纳包"
+          }
+        ]
+      }
+    ]
+  }],
+  "word15":[{
+    "s2":[
+      {
+        "word": [
+          "热门女鞋"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-15-1.jpg",
+            "cont": "婚鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-2.jpg",
+            "cont": "春季单鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-3.jpg",
+            "cont": "休闲鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-4.jpg",
+            "cont": "夏季凉鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-5.jpg",
+            "cont": "高跟鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-6.jpg",
+            "cont": "运动鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-7.jpg",
+            "cont": "帆布鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-8.jpg",
+            "cont": "小白鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-9.jpg",
+            "cont": "妈妈鞋"
+          }
+        ]
+      },
+      {
+        "word": [
+          "时尚女鞋"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-15-10.jpg",
+            "cont": "乐福鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-11.jpg",
+            "cont": "鱼嘴鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-12.jpg",
+            "cont": "豆豆鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-13.jpg",
+            "cont": "夹脚拖"
+          },
+          {
+            "img": "../../../static/images/z-t-15-14.jpg",
+            "cont": "袜靴"
+          },
+          {
+            "img": "../../../static/images/z-t-15-15.jpg",
+            "cont": "大码女鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-16.jpg",
+            "cont": "拖鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-17.jpg",
+            "cont": "布鞋绣花鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-18.jpg",
+            "cont": "雨鞋/雨靴"
+          }
+        ]
+      },
+      {
+        "word": [
+          "品质男鞋"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-15-19.jpg",
+            "cont": "新品推荐"
+          },
+          {
+            "img": "../../../static/images/z-t-15-20.jpg",
+            "cont": "休闲皮鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-21.jpg",
+            "cont": "帆布鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-22.jpg",
+            "cont": "凉鞋人字拖"
+          },
+          {
+            "img": "../../../static/images/z-t-15-23.jpg",
+            "cont": "豆豆鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-24.jpg",
+            "cont": "板鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-25.jpg",
+            "cont": "乐福鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-26.jpg",
+            "cont": "商务鞋"
+          },
+          {
+            "img": "../../../static/images/z-t-15-27.jpg",
+            "cont": "增高鞋"
+          }
+        ]
+      }
+    ]
+  }],
+  "word16":[{
+    "s2":[
+      {
+        "word": [
+          "大牌手机"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-16-1.jpg",
+            "cont": "苹果"
+          },
+          {
+            "img": "../../../static/images/z-t-16-2.jpg",
+            "cont": "三星"
+          },
+          {
+            "img": "../../../static/images/z-t-16-3.jpg",
+            "cont": "小米"
+          },
+          {
+            "img": "../../../static/images/z-t-16-4.jpg",
+            "cont": "华为"
+          },
+          {
+            "img": "../../../static/images/z-t-16-5.jpg",
+            "cont": "魅族"
+          },
+          {
+            "img": "../../../static/images/z-t-16-6.jpg",
+            "cont": "vivo"
+          },{
+            "img": "../../../static/images/z-t-16-7.jpg",
+            "cont": "荣耀"
+          },
+          {
+            "img": "../../../static/images/z-t-16-8.jpg",
+            "cont": "一加"
+          },
+          {
+            "img": "../../../static/images/z-t-16-9.jpg",
+            "cont": "OPPO"
+          },
+          {
+            "img": "../../../static/images/z-t-16-10.jpg",
+            "cont": "锤子"
+          },
+          {
+            "img": "../../../static/images/z-t-16-11.jpg",
+            "cont": "360"
+          },
+          {
+            "img": "../../../static/images/z-t-16-12.jpg",
+            "cont": "NOKIA"
+          },
+          {
+            "img": "../../../static/images/z-t-16-13.jpg",
+            "cont": "努比亚"
+          },
+          {
+            "img": "../../../static/images/z-t-16-14.jpg",
+            "cont": "黑鲨"
+          }
+        ]
+      },
+      {
+        "word": [
+          "手机配件"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-16-15.jpg",
+            "cont": "手机壳"
+          },
+          {
+            "img": "../../../static/images/z-t-16-16.jpg",
+            "cont": "蓝牙耳机"
+          },
+          {
+            "img": "../../../static/images/z-t-16-17.jpg",
+            "cont": "数据线"
+          },
+          {
+            "img": "../../../static/images/z-t-16-18.jpg",
+            "cont": "手机贴膜"
+          },
+          {
+            "img": "../../../static/images/z-t-16-19.jpg",
+            "cont": "苹果配件"
+          },
+          {
+            "img": "../../../static/images/z-t-16-20.jpg",
+            "cont": "充电器"
+          },{
+            "img": "../../../static/images/z-t-16-21.jpg",
+            "cont": "手机耳机"
+          },
+          {
+            "img": "../../../static/images/z-t-16-22.jpg",
+            "cont": "手机电池"
+          },
+          {
+            "img": "../../../static/images/z-t-16-23.jpg",
+            "cont": "手机存储卡"
+          },
+          {
+            "img": "../../../static/images/z-t-16-24.jpg",
+            "cont": "自拍杆"
+          }
+        ]
+      },
+      {
+        "word": [
+          "智能设备"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-16-25.jpg",
+            "cont": "智能手表"
+          },
+          {
+            "img": "../../../static/images/z-t-16-26.jpg",
+            "cont": "智能家居"
+          },
+          {
+            "img": "../../../static/images/z-t-16-27.jpg",
+            "cont": "智能手环"
+          },
+          {
+            "img": "../../../static/images/z-t-16-28.jpg",
+            "cont": "无人机"
+          },
+          {
+            "img": "../../../static/images/z-t-16-29.jpg",
+            "cont": "网络机顶盒"
+          },
+          {
+            "img": "../../../static/images/z-t-16-30.jpg",
+            "cont": "体感车"
+          }
+        ]
+      }
+    ]
+  }],
+  "word17":[{
+    "s2":[
+      {
+        "word": [
+          "厨房小电"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-17-1.jpg",
+            "cont": "电饭煲"
+          },
+          {
+            "img": "../../../static/images/z-t-17-2.jpg",
+            "cont": "电水壶"
+          },
+          {
+            "img": "../../../static/images/z-t-17-3.jpg",
+            "cont": "微波炉"
+          },
+          {
+            "img": "../../../static/images/z-t-17-4.jpg",
+            "cont": "养身锅"
+          },
+          {
+            "img": "../../../static/images/z-t-17-5.jpg",
+            "cont": "多用途锅"
+          },
+          {
+            "img": "../../../static/images/z-t-17-6.jpg",
+            "cont": "电压力锅"
+          },{
+            "img": "../../../static/images/z-t-17-7.jpg",
+            "cont": "电炖锅"
+          },
+          {
+            "img": "../../../static/images/z-t-17-8.jpg",
+            "cont": "料理机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-93.jpg",
+            "cont": "豆浆机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-10.jpg",
+            "cont": "咖啡机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-11.jpg",
+            "cont": "电烤箱"
+          },
+          {
+            "img": "../../../static/images/z-t-17-12.jpg",
+            "cont": "榨汁机"
+          },{
+            "img": "../../../static/images/z-t-17-13.jpg",
+            "cont": "面包机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-14.jpg",
+            "cont": "电饼铛"
+          },
+          {
+            "img": "../../../static/images/z-t-17-15.jpg",
+            "cont": "空气炸锅"
+          },
+          {
+            "img": "../../../static/images/z-t-17-1116.jpg",
+            "cont": "煮蛋器"
+          },
+          {
+            "img": "../../../static/images/z-t-17-17.jpg",
+            "cont": "电器烤炉"
+          },
+          {
+            "img": "../../../static/images/z-t-17-18.jpg",
+            "cont": "酸奶机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-19.jpg",
+            "cont": "果蔬解毒机"
+          }
+        ]
+      },
+      {
+        "word": [
+          "生活电器"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-17-20.jpg",
+            "cont": "净水设备"
+          },
+          {
+            "img": "../../../static/images/z-t-17-21.jpg",
+            "cont": "电风扇"
+          },
+          {
+            "img": "../../../static/images/z-t-17-31.jpg",
+            "cont": "饮水机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-41.jpg",
+            "cont": "加湿器"
+          },
+          {
+            "img": "../../../static/images/z-t-17-51.jpg",
+            "cont": "吸尘器"
+          },
+          {
+            "img": "../../../static/images/z-t-17-61.jpg",
+            "cont": "蒸汽拖把"
+          },{
+            "img": "../../../static/images/z-t-17-1111.jpg",
+            "cont": "智能扫地机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-2111.jpg",
+            "cont": "挂烫机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-3111.jpg",
+            "cont": "干衣机"
+          },
+          {
+            "img": "../../../static/images/z-t-17-4111.jpg",
+            "cont": "除湿机"
+          }
+        ]
+      },
+      {
+        "word": [
+          "电视空调"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-17-51s.jpg",
+            "cont": "挂壁式空调"
+          },
+          {
+            "img": "../../../static/images/z-t-17-52.jpg",
+            "cont": "柜式空调"
+          },
+          {
+            "img": "../../../static/images/z-t-17-53.jpg",
+            "cont": "中央空调"
+          },
+          {
+            "img": "../../../static/images/z-t-17-45.jpg",
+            "cont": "4k电视"
+          },
+          {
+            "img": "../../../static/images/z-t-17-55.jpg",
+            "cont": "智能电视"
+          },
+          {
+            "img": "../../../static/images/z-t-17-56.jpg",
+            "cont": "曲面电视"
+          }
+        ]
+      }
+    ]
+  }],
+  "word18":[{
+    "s2":[
+      {
+        "word": [
+          "电脑整机"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-18-1.jpg",
+            "cont": "平板电脑"
+          },
+          {
+            "img": "../../../static/images/z-t-18-2.jpg",
+            "cont": "笔记本"
+          },
+          {
+            "img": "../../../static/images/z-t-18-3.jpg",
+            "cont": "台式机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-4.jpg",
+            "cont": "游戏本"
+          },
+          {
+            "img": "../../../static/images/z-t-18-5.jpg",
+            "cont": "一体机"
+          }
+        ]
+      },
+      {
+        "word": [
+          "网络外设"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-18-6.jpg",
+            "cont": "路由器"
+          },
+          {
+            "img": "../../../static/images/z-t-18-7.jpg",
+            "cont": "鼠标"
+          },
+          {
+            "img": "../../../static/images/z-t-18-8.jpg",
+            "cont": "4G/3G上网"
+          },
+          {
+            "img": "../../../static/images/z-t-18-9.jpg",
+            "cont": "键盘"
+          },
+          {
+            "img": "../../../static/images/z-t-18-10.jpg",
+            "cont": "网卡"
+          },
+          {
+            "img": "../../../static/images/z-t18-11.jpg",
+            "cont": "鼠标垫"
+          },
+          {
+            "img": "../../../static/images/z-t-18-12.jpg",
+            "cont": "交换机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-13.jpg",
+            "cont": "摄像头"
+          },
+          {
+            "img": "../../../static/images/z-t-18-14.jpg",
+            "cont": "电脑清洁"
+          },
+          {
+            "img": "../../../static/images/z-t-18-15.jpg",
+            "cont": "鼠标套装"
+          },
+          {
+            "img": "../../../static/images/z-t-18-16.jpg",
+            "cont": "电脑包"
+          }
+        ]
+      },
+      {
+        "word": [
+          "办公设备"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-18-17.jpg",
+            "cont": "投影仪"
+          },
+          {
+            "img": "../../../static/images/z-t-18-18.jpg",
+            "cont": "一体机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-19.jpg",
+            "cont": "装订机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-20.jpg",
+            "cont": "碎纸机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-21.jpg",
+            "cont": "点钞机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-22.jpg",
+            "cont": "考勤机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-23.jpg",
+            "cont": "复印机"
+          },
+          {
+            "img": "../../../static/images/z-t-18-24.jpg",
+            "cont": "塑封机"
+          }
+        ]
+      }
+    ]
+  }],
+  "word19":[{
+    "s2":[
+      {
+        "word": [
+          "营养健康"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-19-1.jpg",
+            "cont": "美容养颜"
+          },
+          {
+            "img": "../../../static/images/z-t-19-2.jpg",
+            "cont": "调节免疫"
+          },
+          {
+            "img": "../../../static/images/z-t-19-3.jpg",
+            "cont": "骨骼健康"
+          },
+          {
+            "img": "../../../static/images/z-t-19-4.jpg",
+            "cont": "调节三高"
+          },
+          {
+            "img": "../../../static/images/z-t-19-5.jpg",
+            "cont": "肠胃养护"
+          },
+          {
+            "img": "../../../static/images/z-t-19-6.jpg",
+            "cont": "补肾强身"
+          },
+          {
+            "img": "../../../static/images/z-t-19-7.jpg",
+            "cont": "美体瘦身"
+          },
+          {
+            "img": "../../../static/images/z-t-19-8.jpg",
+            "cont": "缓解疲劳"
+          },
+          {
+            "img": "../../../static/images/z-t-19-9.jpg",
+            "cont": "改善睡眠"
+          },
+          {
+            "img": "../../../static/images/z-t19-10.jpg",
+            "cont": "孕期营养"
+          },
+          {
+            "img": "../../../static/images/z-t-19-11.jpg",
+            "cont": "保护视力"
+          }
+        ]
+      },
+      {
+        "word": [
+          "营养成分"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-19-12.jpg",
+            "cont": "蛋白质"
+          },
+          {
+            "img": "../../../static/images/z-t-19-13.jpg",
+            "cont": "吗啡"
+          },
+          {
+            "img": "../../../static/images/z-t-19-14.jpg",
+            "cont": "胶原蛋白"
+          },
+          {
+            "img": "../../../static/images/z-t-19-15.jpg",
+            "cont": "葡萄籽"
+          },
+          {
+            "img": "../../../static/images/z-t-19-16.jpg",
+            "cont": "左旋肉碱"
+          },
+          {
+            "img": "../../../static/images/z-t19-17.jpg",
+            "cont": "酵素"
+          },
+          {
+            "img": "../../../static/images/z-t-19-18.jpg",
+            "cont": "益生菌"
+          },
+          {
+            "img": "../../../static/images/z-t-19-19.jpg",
+            "cont": "维生素矿物"
+          },
+          {
+            "img": "../../../static/images/z-t-19-20.jpg",
+            "cont": "鱼油/磷脂"
+          }
+        ]
+      },
+      {
+        "word": [
+          "保健器械"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-19-21.jpg",
+            "cont": "血压计"
+          },
+          {
+            "img": "../../../static/images/z-t-19-22.jpg",
+            "cont": "血糖仪"
+          },
+          {
+            "img": "../../../static/images/z-t-19-23.jpg",
+            "cont": "体温计"
+          },
+          {
+            "img": "../../../static/images/z-t-19-24.jpg",
+            "cont": "胎心仪"
+          },
+          {
+            "img": "../../../static/images/z-t-19-25.jpg",
+            "cont": "雾化器"
+          },
+          {
+            "img": "../../../static/images/z-t-19-26.jpg",
+            "cont": "呼吸机"
+          },
+          {
+            "img": "../../../static/images/z-t-19-27.jpg",
+            "cont": "助听器"
+          },
+          {
+            "img": "../../../static/images/z-t-19-28.jpg",
+            "cont": "轮椅"
+          },
+          {
+            "img": "../../../static/images/z-t-19-29.jpg",
+            "cont": "中医保健"
+          }
+        ]
+
+      }
+    ]
+  }],
+  "word20":[{
+    "s2":[
+      {
+        "word": [
+          "少儿"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-20-1.jpg",
+            "cont": "儿童文学"
+          },
+          {
+            "img": "../../../static/images/z-t-20-2.jpg",
+            "cont": "绘本"
+          },
+          {
+            "img": "../../../static/images/z-t-20-3.jpg",
+            "cont": "科普"
+          },
+          {
+            "img": "../../../static/images/z-t-20-4.jpg",
+            "cont": "卡通动漫"
+          },
+          {
+            "img": "../../../static/images/z-t-20-5.jpg",
+            "cont": "幼儿启蒙"
+          },
+          {
+            "img": "../../../static/images/z-t-20-6.jpg",
+            "cont": "智能开发"
+          },
+          {
+            "img": "../../../static/images/z-t-20-17.jpg",
+            "cont": "手工游戏"
+          },
+          {
+            "img": "../../../static/images/z-t-20-8.jpg",
+            "cont": "少儿英语"
+          },
+          {
+            "img": "../../../static/images/z-t-20-9.jpg",
+            "cont": "7-10岁"
+          },
+          {
+            "img": "../../../static/images/z-t-20-10.jpg",
+            "cont": "3-6岁"
+          },
+          {
+            "img": "../../../static/images/z-t-20-11.jpg",
+            "cont": "11-14岁"
+          },
+          {
+            "img": "../../../static/images/z-t-20-126.jpg",
+            "cont": "0-2岁"
+          }
+        ]
+      },
+      {
+        "word": [
+          "教育"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-20-13.jpg",
+            "cont": "教材"
+          },
+          {
+            "img": "../../../static/images/z-t-20-14.jpg",
+            "cont": "中小学教辅"
+          },
+          {
+            "img": "../../../static/images/z-t-20-15.jpg",
+            "cont": "外语学习"
+          },
+          {
+            "img": "../../../static/images/z-t-20-16.jpg",
+            "cont": "考试"
+          },
+          {
+            "img": "../../../static/images/z-t-20-197.jpg",
+            "cont": "字典词典"
+          },
+          {
+            "img": "../../../static/images/z-t-20-18.jpg",
+            "cont": "课外读物"
+          },
+          {
+            "img": "../../../static/images/z-t-20-19.jpg",
+            "cont": "英语四六级"
+          },
+          {
+            "img": "../../../static/images/z-t-20-20.jpg",
+            "cont": "会级考试"
+          },
+          {
+            "img": "../../../static/images/z-t-20-21.jpg",
+            "cont": "国家公务员"
+          }
+        ]
+      },
+      {
+        "word": [
+          "文艺"
+        ],
+        "smallbox": [
+          {
+            "img": "../../../static/images/z-t-20-22.jpg",
+            "cont": "小说"
+          },
+          {
+            "img": "../../../static/images/z-t-20-23.jpg",
+            "cont": "文艺"
+          },
+          {
+            "img": "../../../static/images/z-t-20-24.jpg",
+            "cont": "青春文学"
+          },
+          {
+            "img": "../../../static/images/z-t-20-25.jpg",
+            "cont": "动漫"
+          },
+          {
+            "img": "../../../static/images/z-t-20-26.jpg",
+            "cont": "传记"
+          },
+          {
+            "img": "../../../static/images/z-t-20-27.jpg",
+            "cont": "绘画"
+          },
+          {
+            "img": "../../../static/images/z-t-20-28.jpg",
+            "cont": "音乐"
+          },
+          {
+            "img": "../../../static/images/z-t-20-29.jpg",
+            "cont": "艺术"
+          },
+          {
+            "img": "../../../static/images/z-t-20-30.jpg",
+            "cont": "摄影"
+          },
+          {
+            "img": "../../../static/images/z-t-20-31.jpg",
+            "cont": "书法"
+          }
+        ]
+      }
+    ]
+  }]
+}
+

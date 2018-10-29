@@ -1,0 +1,70 @@
+
+
+.reginHeader{
+	width: 100%;
+}
+.headerBox{
+	width: 100%;
+	height: .44rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #72556b;
+	border-top-left-radius: 0.23rem;
+	border-bottom-right-radius: .23rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: .5;
+}
+.goBack{
+	width: .21rem;
+	height: .19rem;
+	background: url(../img/narrow.png) no-repeat;
+	background-size: .21rem .19rem;
+	margin-left: .15rem;
+}
+.headerCont{
+	font-size: .1rem;
+	color: white;
+	display: none;
+}
+.goShare{
+	width: .19rem;
+	height: .22rem;
+	background: url(../img/share.png) no-repeat;
+	background-size: .19rem .22rem;
+	margin-right: .15rem;
+}
+
+/*DigtalContent*/
+.digtalShow{
+	background: white;
+}
+.sdigBanner img{
+	width: 100%;
+	height: 1.5rem;
+}
+.digtalListBox{
+	margin: .1rem;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0.2rem;
+}
+.liLeft {
+	margin-right: .22rem;
+}
+.liLeft h2{
+	font-size: .16rem;
+	line-height: .26rem;
+}
+.liLeft p{
+	font-size: .12rem;
+	color: #afafaf;
+	margin-top: .54rem;
+}
+
+.liRight img{
+	width: 1.83rem;
+	height: 1.29rem;
+}

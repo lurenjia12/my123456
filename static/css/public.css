@@ -1,0 +1,110 @@
+body,div,p,ul,ol,li,dl,dt,dd,table,tr,td,th,form,h1,h2,h3,h4,h5,h6,input,textarea,fieldset,figure{
+	margin:0;
+	padding:0;
+}
+html{
+	font-size: 26.67vw;
+}
+html,body{
+	height: 100%;
+	background: #FFFFFF;
+}
+body{
+	font-family:"微软雅黑",Arial;
+	background: #f0f0f0;
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+  position: relative;
+}
+ul,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+img{
+	border:0;
+	display: block;
+}
+
+
+/*header*/
+.header{
+	width: 100%;
+	/*height: 1rem;*/
+	background: white;
+}
+.header img{
+	margin: 0 auto;
+	padding-top: .16rem;
+}
+.header_down{
+	display: flex;
+	justify-content: space-around;
+	height: .62rem;
+	align-items: center;
+}
+.header_down a{
+	width: .59rem;
+	height: .25rem;
+	font-size:.14rem ;
+	line-height: .25rem;
+	color: #000;
+	text-align: center;
+}
+.header_down .hotPoint{
+	border-top-left-radius:0.09rem ;
+	border-bottom-right-radius:0.09rem;
+	background: #fe3367;
+	color: white;
+}
+#box{
+	flex:1;
+	overflow-y: scroll;
+}
+
+/*footer*/
+footer{
+	/*height: .44rem;*/
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	background: #FFFFFF;
+  position: relative;
+}
+
+footer a{
+	/*height: .31rem;*/
+	margin-top: .03rem;
+	margin-bottom: 0.03rem;
+	text-align: center;
+	color: #686868;
+}
+.iconfont{
+	display: block;
+	font-size: 0.2rem;
+	/*color: #f04d46;*/
+}
+footer a span{
+	display: block;
+	font-size: 0.08rem;
+}
+footer .onepintang{
+	color: #f04d46;
+}
+
+.s-number{
+	display: block;
+	width:.15rem;
+	height: .15rem;
+	border-radius: 50%;
+	background: #ff3c25;
+	font-size:.08rem ;
+	color: #fff3f1;
+	text-align: center;
+	line-height: .15rem;
+	position: absolute;
+	left: 2.42rem;
+  top: 0.03rem;
+  font-weight: 100;
+}
